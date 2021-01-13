@@ -37,5 +37,5 @@ Communications and retail. Improved chat bot functionality, personalized shoppin
 
 
 ____________________
-<span style="color:blue">Copyright © 2021 AionNEXT Corporation<br>
+2021 AionNEXT Corporation<br>
 we build soft and you build app | <b>soft4app</b>
