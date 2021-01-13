@@ -32,3 +32,9 @@ Banking. Fraud detection, credit and risk analysis, and market recommendations p
 Health and life sciences. Processing data from past case notes, biomedical imaging and health monitors to advance the use of predictive diagnostics and improve response times in patient care.
 Manufacturing and energy. Supply chain optimization, automated detection of defects during production and energy forecasting.
 Communications and retail. Improved chat bot functionality, personalized shopping experiences and customized recommendations.
+
+
+
+
+Copyright © 2021 AionNEXT Corporation
+we build soft and you build app | <b>soft4app</b>
