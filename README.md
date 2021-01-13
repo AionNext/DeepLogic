@@ -33,12 +33,9 @@ Health and life sciences. Processing data from past case notes, biomedical imagi
 Manufacturing and energy. Supply chain optimization, automated detection of defects during production and energy forecasting.
 Communications and retail. Improved chat bot functionality, personalized shopping experiences and customized recommendations.
 
-	- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
 
 
-
+____________________
 <span style="color:blue">Copyright © 2021 AionNEXT Corporation<br>
 we build soft and you build app | <b>soft4app</b>
