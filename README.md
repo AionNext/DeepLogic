@@ -33,6 +33,10 @@ Health and life sciences. Processing data from past case notes, biomedical imagi
 Manufacturing and energy. Supply chain optimization, automated detection of defects during production and energy forecasting.
 Communications and retail. Improved chat bot functionality, personalized shopping experiences and customized recommendations.
 
+	- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 
 
 
